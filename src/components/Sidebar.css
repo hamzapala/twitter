@@ -1,0 +1,66 @@
+.searchBar{
+    background-color: rgb(41, 41, 41);
+    border-radius: 20px;
+    margin: 10px;
+    padding:px;
+    border:0px;
+    min-width:300px;
+    height: 35px;
+}
+.searchImg{
+    margin-left: 15px;
+}
+.input{
+    background-color: rgb(41, 41, 41);
+    border:0px;
+    margin-left: 20px;
+}
+.otherProfiles{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    gap: 1px;
+    margin-left: 10px;
+}
+.otherProfile{
+    width:98px;
+    height:98px;
+}
+.leftTop{
+    border-top-left-radius: 20px;
+}
+.rightTop{
+    border-top-right-radius: 20px;
+}
+.leftBottom{
+    border-bottom-left-radius: 20px;
+}
+.rightBottom{
+    border-bottom-right-radius: 20px;
+}
+.followMargin{
+    margin-top: -50px;
+    margin-bottom: 50px;
+}
+.forMarginn{
+    margin-left: 70px;
+    margin-top: -50px;}
+.tickSide{
+    margin-top: -50px;
+    margin-left: 0px;
+}
+.littleMargin{
+    margin-top: -30px;
+    margin-left: -85px;
+}
+.shakira{
+    margin-left: -65px;
+}
+.showMore{
+    margin-left:10px;
+}
+.mightLike{
+   background-color: rgb(41, 41, 41);
+   border-radius: 20px;
+    margin: 10px;
+    min-width:300px;
+}
